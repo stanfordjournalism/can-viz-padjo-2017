@@ -1,6 +1,9 @@
 # can-viz sfpd-robbers-drugs-incidents
 
-Assignment page: http://2017.padjo.org/assignments/can-viz/sfpd-robbers-drugs-incidents.html
+
+Questionnaire: TK
+
+Info: http://2017.padjo.org/assignments/can-viz/sfpd-robbers-drugs-incidents.html
 
 
 --------
